@@ -58,7 +58,7 @@ function App() {
     }
 
     const options = {
-      key: 'rzp_test_GcZZFDPP0jHtC4',
+      key: 'rzp_test_OzKUZ3qyNu1JV3',
       amount: amount,
       currency: 'INR',
       name: "papaya coders",
